@@ -8,9 +8,5 @@ def(macerena)
 6. "Place your left hand on your right shoulder."
 7. "Bring your right hand up and around to the back of your head."
 8. "Bring your left hand up and around to the back your head."
-
-
-
-
 end
 
